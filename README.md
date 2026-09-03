@@ -1,4 +1,4 @@
-# Nayem's Media Engine
+# AI YouTube Content Studio
 
 **A project by Nasratul Nayem**
 
@@ -45,8 +45,8 @@ This project is a comprehensive, Flask-based web application designed to automat
 
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/nasratulnayem/automated-content-creator.git
-    cd automated-content-creator
+    git clone https://github.com/nasratulnayem/ai-youtube-content-studio.git
+    cd ai-youtube-content-studio
     ```
 
 2.  **Create a Python Virtual Environment**
